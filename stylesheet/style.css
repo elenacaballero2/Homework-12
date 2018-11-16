@@ -1,0 +1,48 @@
+.divOne {
+	margin: 0 auto;
+}
+
+.pic{
+	align:left;
+	display: block;
+	margin:10px;
+	padding-left: 500px;
+}
+
+body{
+	background-color: #C8C8C8;
+}
+h1 {
+	font-family: helvetica;
+	background-color: pink;
+}
+
+h4 {
+	font-family: roboto;
+	font-weight: 400;
+}
+
+div {
+	display: inline-block;
+	padding-left: 20px;
+}
+
+button {
+	display: block;
+}
+
+img {
+	display: block;
+}
+
+.weatherImage1 {
+	display: none;
+}
+
+.weatherImage2 {
+	display: none;
+}
+
+.weatherImage3 {
+	display: none;
+}
